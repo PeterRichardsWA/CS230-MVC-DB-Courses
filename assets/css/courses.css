@@ -1,0 +1,106 @@
+* {
+	font-family: 'helvetica neu',verdana,tahoma;
+	/*outline: 1px solid #8e8e8e;*/
+}
+#container {
+	margin: 0 auto;
+	width: 90%;
+	height: 600px;
+}
+#actions {
+	width: 600px;
+	margin: 5px auto;
+}
+.right {
+	text-align: right;
+}
+.clear {
+	clear: both;
+}
+.inline-h {
+	float: left;
+	width: 200px;
+	text-align: right;
+	margin-bottom: 5px;
+	margin-right: 10px;
+}
+.inline-d {
+	float: left;
+	font-weight: normal;
+	font-size: 9pt;
+}
+.inp-button {
+	border: 2px solid #8e8e8e;
+	border-radius: 3px;
+	background-color: #193cfc;
+	color: #ffffff;
+	text-align: center;
+	padding: 3px 3px;
+	font-weight: bold;
+	box-shadow: 2px 2px #8e8e8e;
+}
+.inp-buttonr {
+	border: 2px solid #8e8e8e;
+	border-radius: 3px;
+	background-color: #FF0000;
+	color: #ffffff;
+	text-align: center;
+	padding: 3px 3px;
+	font-weight: bold;
+	box-shadow: 2px 2px #8e8e8e;
+	margin-left: 100px;
+}
+#course-table {
+	text-align: left;
+}
+#course-table th {
+	text-align: left;
+	border-right: 2px solid #8e8e8e;
+	border-bottom: 1px solid #8e8e8e;
+	background-color: #8f8f8f;
+	padding: 2px;
+}
+#course-table td {
+	font-size: 9pt;
+	text-align: left;
+	border-right: 2px solid #8e8e8e;
+	border-bottom: 1px solid #8e8e8e;
+}
+#mytable th {
+	text-align: left;
+}
+#course-verify {
+	border: 2px solid #FF0000;
+	border-radius: 3px;
+	color: #000000;
+	text-align: center;
+	padding: 10px;
+	font-weight: bold;
+	box-shadow: 2px 2px #8e8e8e;
+	margin-bottom: 10px;
+	width: 600px;
+	margin: 0 auto;
+}
+.odd {
+	background-color: #00ffff;
+}
+.no {
+	border: 2px solid #8e8e8e;
+	border-radius: 3px;
+	background-color: #00ff00;
+	color: #000000;
+	text-align: center;
+	padding: 3px 3px;
+	font-weight: bold;
+	box-shadow: 2px 2px #8e8e8e;
+}
+.yes {
+	border: 2px solid #8e8e8e;
+	border-radius: 3px;
+	background-color: #ff0000;
+	color: #ffffff;
+	text-align: center;
+	padding: 3px 3px;
+	font-weight: bold;
+	box-shadow: 2px 2px #8e8e8e;
+}
